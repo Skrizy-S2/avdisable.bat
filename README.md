@@ -1,2 +1,2 @@
 # avdisable.bat
-Script to disable AV and can't return on
+Script to disable AV
